@@ -1,0 +1,18 @@
+{
+    "name": "antwk/http",
+    "description": "HTTP module for AntWebKernel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Antwk\\Http\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antony",
+            "email": "a2020gk@outlook.com"
+        }
+    ],
+    "require": {}
+}
